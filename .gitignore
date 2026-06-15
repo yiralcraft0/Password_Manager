@@ -1,0 +1,4 @@
+passwords.json
+secret.key
+__pycache__/
+*.pyc

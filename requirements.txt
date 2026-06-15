@@ -1,0 +1,9 @@
+bcrypt
+cryptography
+colorama
+pyperclip
+time
+json
+os
+subprocess
+sys
