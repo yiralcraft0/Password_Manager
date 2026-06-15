@@ -22,16 +22,16 @@ While this project was primarily created for learning purposes, it demonstrates 
 
 ## Requirements
 <!-- Import/Must to have Modules -->
-from cryptography.fernet import Fernet
-import bcrypt
-import json
-import os
-import subprocess
-import sys
+from cryptography.fernet import Fernet<br>
+import bcrypt<br>
+import json<br>
+import os<br>
+import subprocess<br>
+import sys<br>
 <!-- To Copy Passwrod -->
-import pyperclip
+import pyperclip<br>
 <!-- For Styling and Intractive feling -->
-from colorama import Fore, Style, init 
-import time
+from colorama import Fore, Style, init <br>
+import time<br>
 
 </p>
