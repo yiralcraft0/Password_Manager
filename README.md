@@ -21,16 +21,16 @@ While this project was primarily created for learning purposes, it demonstrates 
 - Add, view, rename, and delete passwords<br>
 
 ## Requirements
-<!-- Import/Must to have Modules -->
+-->Import/Must to have Modules<br>
 from cryptography.fernet import Fernet<br>
 import bcrypt<br>
 import json<br>
 import os<br>
 import subprocess<br>
 import sys<br>
-<!-- To Copy Passwrod -->
+-->To Copy Passwrod<br>
 import pyperclip<br>
-<!-- For Styling and Intractive feling -->
+-->For Styling and Intractive feling<br>
 from colorama import Fore, Style, init <br>
 import time<br>
 
